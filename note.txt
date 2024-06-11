@@ -1,0 +1,3 @@
+This game had a little bug by the creator:
+When the dice number wa 1 the active player should be toggled automatically. But After toggling if the current player clicks on "Hold" button by a mistake, the active player would be toggled again!!!
+And clicking on "Hold" button when the dice number is 1 would make a loop of toggling the active player again and again!!!
